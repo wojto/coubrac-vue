@@ -1,5 +1,13 @@
 # coubrac-vue
 
+First steps with Vue + Silex :)
+don't copy :)
+
+
+
+
+# coubrac-vue
+
 > Co Ubrac - Vue
 
 ## Build Setup
